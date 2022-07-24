@@ -18,3 +18,6 @@ Sub RunScreenSaver()
       end if
   end while
 End Sub
+
+'Sub RunScreenSaverSettings()
+'End Sub
