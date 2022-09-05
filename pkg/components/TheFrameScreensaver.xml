@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component name="TheFrameScreensaver" extends="Scene" >
+<component name="TheFrameScreensaver" extends="Scene">
 
-<script type="text/brightscript" uri = "pkg:/components/TheFrameScreensaver.brs"/>
+	<interface >
+		<field id="artworkuri" type="uri" onChange="updateartwork" />
+	</interface>
+	
+	<script type="text/brightscript" uri="pkg:/components/TheFrameScreensaver.brs"/>
 
+	<children>
+		<!-- dynamic artwork image -->
+		<Poster
+			id="artwork"
+			width="1673.0"
+			height="833.0"
+			translation="[123,123]"
+			loadDisplayMode="scaleToZoom"
+		/>
+
+		<!-- matte overlay -->
+		<Poster
+			id="matte"
+			width="1920.0"
+			height="1080.0"
+			uri="pkg:/images/FrameMatte01_1080.png"
+		/>
+		
+	</children>
+	
 </component>

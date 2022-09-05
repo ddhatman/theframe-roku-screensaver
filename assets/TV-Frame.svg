@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg5536"
+   width="5120"
+   height="2880"
+   viewBox="0 0 5120 2880"
+   sodipodi:docname="TV-Frame.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5540">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5562">
+      <path
+         d="m 248,250 15,15 h 3310 l 15,-15 z"
+         id="path5560" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3222.5631,-877.88731,877.88731,3222.5631,241.46862,458.73504)"
+       spreadMethod="pad"
+       id="linearGradient5570">
+      <stop
+         style="stop-opacity:1;stop-color:#b2a497"
+         offset="0"
+         id="stop5566" />
+      <stop
+         style="stop-opacity:1;stop-color:#aca59d"
+         offset="1"
+         id="stop5568" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5580">
+      <path
+         d="M 0,0 H 3840 V 250 H 0 Z m 3588,250 h 250 V 1910 H 3588 Z M 0,250 H 247.555 V 1910 H 0 Z m 0,1660 h 3838 v 250 H 0 Z"
+         id="path5578" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5590">
+      <path
+         d="M 0,0 H 3840 V 2160 H 0 Z"
+         id="path5588" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview5538"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.26757812"
+     inkscape:cx="2560"
+     inkscape:cy="1438.8321"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page5542"
+       width="5120"
+       height="2880"
+       inkscape:export-filename="FrameMatte01_1080.png"
+       inkscape:export-xdpi="36"
+       inkscape:export-ydpi="36" />
+  </sodipodi:namedview>
+  <g
+     id="g5544"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,1.3333333,0,7.2e-5)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="matte"
+       style="display:inline"
+       transform="matrix(0.75000002,0,0,0.75000002,0,-5.4000001e-5)">
+      <path
+         d="m 4785,0 h 335 v 2880 h -335 z"
+         style="display:inline;fill:#d6b9b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.374292"
+         id="path5548"
+         inkscape:label="matte-top" />
+      <path
+         d="M 0,0 H 335 V 2880 H 0 Z"
+         style="display:inline;fill:#d6b9b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.374293"
+         id="path9483"
+         inkscape:label="matte-left" />
+      <path
+         d="m 0,2545 h 5120 v 335 H 0 Z"
+         style="display:inline;fill:#d6b9b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.499056"
+         id="path9485"
+         inkscape:label="matte-bottom" />
+      <path
+         d="M 0,0 H 5120 V 335 H 0 Z"
+         style="display:inline;fill:#d6b9b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.499057"
+         id="path9487"
+         inkscape:label="matte-top" />
+    </g>
+    <g
+       id="g5546"
+       style="display:inline"
+       inkscape:label="bezels">
+      <path
+         d="m 262.586,1895.75 -14.25,14.25 0.746,0.75 h 3339.465 l 0.75,-0.75 -14.25,-14.25 z"
+         style="fill:#a0a2a1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5550"
+         inkscape:label="bezel-bottom" />
+      <path
+         d="m 3573,264.668 v 1630.664 l 14.668,14.668 0.332,-0.336 V 250.336 L 3587.668,250 Z"
+         style="fill:#7b7168;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5552"
+         inkscape:label="bezel-right" />
+      <path
+         d="m 247.5,250.5 v 1659.75 l 0.5,0.5 14.5,-14.5 V 264.5 L 248,250 Z"
+         style="fill:#ddd9d0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path5554"
+         inkscape:label="bezel-left" />
+      <path
+         d="m 248,250 15,15 h 3310 l 15,-15 z"
+         style="display:inline;fill:url(#linearGradient5570);stroke:none"
+         id="path5572"
+         inkscape:label="bezel-top" />
+    </g>
+  </g>
+</svg>
