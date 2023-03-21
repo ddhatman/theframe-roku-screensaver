@@ -11,3 +11,10 @@ sub updateartwork()
   poster.uri = m.top.artworkuri
 
 end sub
+
+sub updateshade() 
+
+  rect = m.top.findNode("shade")
+  rect.color = m.top.shadecolor
+
+end sub

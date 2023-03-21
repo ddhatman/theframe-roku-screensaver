@@ -3,6 +3,7 @@
 
 	<interface >
 		<field id="artworkuri" type="uri" onChange="updateartwork" />
+		<field id="shadecolor" type="string" onChange="updateshade" />
 	</interface>
 	
 	<script type="text/brightscript" uri="pkg:/components/TheFrameScreensaver.brs"/>
@@ -24,6 +25,12 @@
 			height="1080.0"
 			uri="pkg:/images/FrameMatte01_1080.png"
 		/>
+
+		<Rectangle
+			id="shade"
+			color="0x2A200000"
+			width="1920.0"
+			height="1080.0" />
 		
 	</children>
 	
