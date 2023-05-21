@@ -63,43 +63,43 @@ Function get_shade_color() as string
   date = CreateObject("roDateTime")
   date.ToLocalTime()
   hour = date.GetHours()
-  opacity = "AA"
+  opacity = "BB"
 
   if (hour = 6)
-    opacity = "99"
+    opacity = "AA"
   endif
   if (hour = 7)
-    opacity = "77"
+    opacity = "99"
   endif
   if (hour = 8)
-    opacity = "55"
+    opacity = "77"
   endif
   if (hour = 9)
-    opacity = "33"
-  endif
-  if (hour = 10)
-    opacity = "11"
-  endif
-  if (hour = 11)
-    opacity = "00"
-  endif
-  if (hour = 12)
-    opacity = "00"
-  endif
-  if (hour = 13)
-    opacity = "00"
-  endif
-  if (hour = 14)
-    opacity = "11"
-  endif
-  if (hour = 15)
-    opacity = "33"
-  endif
-  if (hour = 16)
     opacity = "55"
   endif
-  if (hour = 17)
+  if (hour = 10)
+    opacity = "33"
+  endif
+  if (hour = 11)
+    opacity = "22"
+  endif
+  if (hour = 12)
+    opacity = "22"
+  endif
+  if (hour = 13)
+    opacity = "22"
+  endif
+  if (hour = 14)
+    opacity = "33"
+  endif
+  if (hour = 15)
+    opacity = "55"
+  endif
+  if (hour = 16)
     opacity = "77"
+  endif
+  if (hour = 17)
+    opacity = "99"
   endif
   
   return "0x2A2000" + opacity
